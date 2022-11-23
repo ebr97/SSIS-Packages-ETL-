@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "MetaDataTestingProject", "MetaDataTestingProject\MetaDataTestingProject.dtproj", "{A0AC0FA2-D82C-4CC5-A8DB-50532B420F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0AC0FA2-D82C-4CC5-A8DB-50532B420F9C}.Development|Default.ActiveCfg = Development
+		{A0AC0FA2-D82C-4CC5-A8DB-50532B420F9C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD33CAFC-FCF2-410F-B62F-C7089C76169E}
+	EndGlobalSection
+EndGlobal
