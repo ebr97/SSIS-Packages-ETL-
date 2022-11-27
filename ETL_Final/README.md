@@ -10,5 +10,5 @@ Into LogError Table will insert every error we encounter during the runtime of t
 
 All the filepaths (SourceFolder where we have the archive in the firstplace, ProcessedFolder where we extract the raw data. ArchiveFolder where we move the archive after processing it) are parameterizeds so we can change the paths after deploying the package.
 
-Thats it :)
+That's it :)
 Emil
